@@ -10,7 +10,7 @@ local palette = {
   text_default ="#b69e7f", -- "#A08563",
   at_highlight = "#ACD7DD",
   comment = "#7D7D7D",
-  keyword = "#CD950C",
+  keyword = "#f4c03e",
   str_constant = "#627e28", -- #6B8E23",
   include = "#627e28", -- #6B8E23",
   preproc = "#DAB98F",
@@ -22,7 +22,7 @@ local palette = {
   highlight_white = "#003A3A",
   bar = "#262329",
   bar_active = "#A8A8A8",
-  base = "#A0823B",
+  base = "#c09f54",
   pop1 = "#262329",
   pop2 = "#A18439",
   line_numbers_back = "#202020",
@@ -33,6 +33,7 @@ local palette = {
   coder_command = "#FFFFFF",
   operator = "#C8964B",
   operator_alt = "#ff5555",
+  blue = "#547290"
 }
 
 palette["at_cursor"] = palette.back
