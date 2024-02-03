@@ -1,6 +1,6 @@
 local palette = {
   NONE = "none",
-  back = "#161616",
+  back = "#232323",
   margin = "#262626",
   margin_hover = "#333333",
   margin_active = "#404040",
@@ -10,7 +10,8 @@ local palette = {
   text_default ="#b69e7f", -- "#A08563",
   at_highlight = "#ACD7DD",
   comment = "#7D7D7D",
-  keyword = "#f4c03e",
+  keyword = "#DBB316",
+  -- keyword = "#f4c03e",
   str_constant = "#627e28", -- #6B8E23",
   include = "#627e28", -- #6B8E23",
   preproc = "#DAB98F",
@@ -33,7 +34,8 @@ local palette = {
   coder_command = "#FFFFFF",
   operator = "#C8964B",
   operator_alt = "#ff5555",
-  blue = "#547290"
+  -- blue = "#8aa7c4"
+  blue = "#8196aa"
 }
 
 palette["at_cursor"] = palette.back
